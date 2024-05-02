@@ -14,5 +14,10 @@ Commands
 - thismonth -> wyswietlanie kalendarza na ten miesiac
 - curmonth -> wyswietlanie kalendarza miesiecznego na wybrany miesiac
 - write [string] -> wpisywanie zadania na cur wybrany date
+-clear -> czysci terazniejszy tasks.txt i tworzy tasks_backup.txt
 
 ToDo
+-add writing command
+> you can write a task to the file
+> add method of chaning the date (selday selmonth etc.)
+>make a system so you're writing a task for the correct date
