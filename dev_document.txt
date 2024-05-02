@@ -1,0 +1,18 @@
+Features
+-Sprawdzanie zadan danego dnia
+-Wglad na caly miesiac i pokazanie czy danego dnia mamy jakiekolwiek zadania
+-zmiana sprawdzanego dnia na inny
+-zmiana sprawdzanego miesiaca na inny
+-wpisywanie zadan na dany termin
+
+Commands
+- today -> wyswietlanie zadan na dzien dzisiejszy
+- curday -> wyswietlanie zadan na akurat wybrana date
+- selday [int] -> wybieranie nowego dnia
+- selmonth [int] -> wybieranie nowego miesiaca
+- selyear [int] -> wybieranie nowego roku
+- thismonth -> wyswietlanie kalendarza na ten miesiac
+- curmonth -> wyswietlanie kalendarza miesiecznego na wybrany miesiac
+- write [string] -> wpisywanie zadania na cur wybrany date
+
+ToDo
